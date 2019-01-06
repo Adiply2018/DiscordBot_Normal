@@ -98,5 +98,5 @@ async def on_message(message):
             pass
 
 if __name__=="__main__":
-    TOKEN = "NDUyMTE2NDc2NDgxMTEwMDE2.DqCPbQ.mj0txRGYu5SOIrZ54_UddVD_YiI"
+    TOKEN = ""
     client.run(TOKEN)
